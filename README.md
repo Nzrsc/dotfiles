@@ -22,18 +22,6 @@ ln -s ~/dotfiles/.vimrc ~/.vimrc
 ln -s ~/dotfiles/.vim ~/.vim
 ```
 
-## Updating
-
-After modifying configuration files, commit and push changes:
-
-```bash
-cd ~/dotfiles
-
-git add .
-git commit -m "Update configuration"
-git push
-```
-
 ## Restoring
 
 To restore the configuration on another machine, clone the repository and create the symbolic links as described in the installation section.
