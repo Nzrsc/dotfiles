@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/jan/code/AISlop/HLSLViewer/shaders/include'
+let g:netrw_dirhist_0='/home/jan/code/AISlop/HLSLViewer/shaders'
+let g:netrw_dirhist_9='/home/jan/code/AISlop/HLSLViewer'
+let g:netrw_dirhist_8='/home/jan/code/b4bproj6/sp/Assets/Zohajan/Shaders/ZohajanLibrary/Procedural/Noises'
+let g:netrw_dirhist_7='/home/jan/code/b4bproj6/sp/Assets/Zohajan/Shaders/ZohajanLibrary/Procedural'
+let g:netrw_dirhist_6='/home/jan/code/b4bproj6/sp/Assets/Zohajan/Shaders/ZohajanLibrary'
+let g:netrw_dirhist_5='/home/jan/code/b4bproj6/sp/Assets/Zohajan/Shaders/ZohajanLibrary/Procedural/Noises'
+let g:netrw_dirhist_4='/home/jan/code/b4bproj6/sp/Assets/Zohajan/Shaders/ZohajanLibrary/Procedural'
+let g:netrw_dirhist_3='/home/jan/code/b4bproj6/sp/Assets/Zohajan/Shaders/ZohajanLibrary'
+let g:netrw_dirhist_2='/home/jan/code/b4bproj6/sp/Assets/Zohajan/Shaders/ZohajanLibrary/Procedural/Noises'
